@@ -82,19 +82,14 @@ The user should clone the repository from GitHub and open up the project in thei
 
 ## 💻Usage 
 To run on _localhost:3001_, please run command _npm start_ to start the server and _control C_ to stop.
-<br>To run program on Heroku, please [click here](https://damp-beach-37387.herokuapp.com/).</br>
-[Click me for walkthrough❗️](https://drive.google.com/file/d/1r1HfNW2eTT6yNOtebrMdx-Sk-RCgTDo1/view)
+<br>To run program on Heroku, please [click here](https://thawing-mesa-03929.herokuapp.com/).</br>
 <br>![](assets/example.gif)</br>
 
 
 ## ✏️Built With
-<p><a href="https://nodejs.org/">Node.js</a></p>
-<p><a href="https://www.npmjs.com/">NPM</a></p>
-<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
-<p><a href="https://www.npmjs.com/package/mysql2">MySQL2</a></p>
-<p><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></p>
-<p><a href="https://www.npmjs.com/package/dotenv">dotenv</a></p>
-<p><a href="https://heroku.com/">Heroku</a></p>
+<p><a href="https://www.apollographql.com/">Apollo</a></p>
+<p><a href="https://graphql.org/">GraphQL</a></p>
+<p><a href="https://reactjs.org/">React</a></p>
 
 
 ## 🔐License
