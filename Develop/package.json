@@ -12,11 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:arosenkranz/googlebooks-app.git"
+    "url": "git+https://github.com/tpgent01/book-search-engine.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgent01/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/tpgent01/book-search-engine#readme",
   "dependencies": {
     "if-env": "^1.0.4"
   },
